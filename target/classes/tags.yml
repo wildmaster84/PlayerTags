@@ -1,0 +1,5 @@
+gui_item: NAME_TAG
+playertags:
+  example:
+    tag: '&7&oPlayerTags'
+    permission: playertags.tag.example
